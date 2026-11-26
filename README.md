@@ -127,8 +127,8 @@ I enjoy understanding how systems work—from designing applications to learning
 <p align="center">
   <a href="https://github.com/Charanreddy0007/ProfileCounter.git">
     <img
-      src="https://profilecounter.onrender.com/count/Charanreddy0007/project"
-      alt="Project Views"
+      src="https://komarev.com/ghpvc/?username=charanreddymuli&label=PROFILE%20VIEWS&color=ff0033&style=for-the-badge"
+      alt="Profile Views"
     />
   </a>
 </p>
